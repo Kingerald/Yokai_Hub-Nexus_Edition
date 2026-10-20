@@ -24,9 +24,20 @@
 | **Combined Vertical Lockup (1:1)** | `CYBER_SHRINE` | `yokai_lockup_cyber_shrine.png` |
 | **Combined Vertical Lockup (1:1)** | `YIN_YANG` | `yokai_lockup_yin_yang.png` |
 | **Combined Vertical Lockup (1:1)** | `BLOOD_MOON_TORII` | `yokai_lockup_blood_moon.png` |
+| **Transparent Universal Fallback Emblem** | All Themes | `yokai_logo_transparent.png` |
+| **Transparent Theme Emblem (1:1)** | `CYBER_SHRINE` | `yokai_logo_cyber_shrine_transparent.png` |
+| **Transparent Theme Emblem (1:1)** | `YIN_YANG` | `yokai_logo_yin_yang_transparent.png` |
+| **Transparent Theme Emblem (1:1)** | `BLOOD_MOON_TORII` | `yokai_logo_blood_moon_transparent.png` |
+| **Transparent Wordmark Only (3:1)** | `CYBER_SHRINE` | `yokai_wordmark_cyber_shrine_transparent.png` |
+| **Transparent Wordmark Only (3:1)** | `YIN_YANG` | `yokai_wordmark_yin_yang_transparent.png` |
+| **Transparent Wordmark Only (3:1)** | `BLOOD_MOON_TORII` | `yokai_wordmark_blood_moon_transparent.png` |
+| **Transparent Combined Vertical Lockup (1:1)** | `CYBER_SHRINE` | `yokai_lockup_cyber_shrine_transparent.png` |
+| **Transparent Combined Vertical Lockup (1:1)** | `YIN_YANG` | `yokai_lockup_yin_yang_transparent.png` |
+| **Transparent Combined Vertical Lockup (1:1)** | `BLOOD_MOON_TORII` | `yokai_lockup_blood_moon_transparent.png` |
 
 ---
 
 ## Paste / Upload Image Links or Assets Below:
 
 <!-- Drop or upload your PNG files below or directly into app/src/main/res/drawable/ -->
+Check the newly added file for images
